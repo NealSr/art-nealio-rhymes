@@ -1,46 +1,47 @@
-Fly over States
-Jason Aldean
+Bad Network States
+Neal's Alldone
 
-A couple guys in first class on a flight
-From new York to Los Angeles,
+A couple guys in sales are online
+They're always working Nine to Five,
+
 Kinda making small talk killing time,
-Flirting with the flight attendants,
+Browsing reddit on the company dime,
 
-Thirty thousand feet above, could be Oklahoma,
+Nothin' much to speak of, internet's doin' fine.
 
-Just a bunch of square cornfields and wheat farms,
-Man it all looks the same,
-Miles and miles of back roads and highways,
-Connecting little towns with funny names,
-Who'd want to live down there in the middle of nowhere,
+Just a bunch of ones and zeros, and Wi-Fi 
+Nerds, they all look the same,
+Miles and miles of splunk logs and INFOs,
+Scrolling across the monitors that glow,
+Who'd want to work down there in the department from nowhere,
 
-They've never drove through Indiana,
-Met the men who plowed that earth,
-Planted that seed, busted his ass for you and me,
-Or caught a harvest moon in Kansas,
-They'd understand why God made those fly over states,
+They've never had to reboot a server,
+But the ones who patched that bug,
+Pulled that plug, and drank enough coffee for you and me,
+Or had to do an urgent change freeze,
+They understand why we have... those bad network states,
 
-I bet that mile long Santa Fe freight train engineer's seen it all
-Just like that flatbed cowboy stacking US steel on a 3-day haul
-Roads and rails under their feet
-Yeah that sounds like a first class seat
+I bet that DevOps Database System Engineer's seen it all
+Just like that web developer hacking PHP on a 3-night haul
+Keys are flying under their hands
+Yeah that sounds like it's pretty grand
 
-On the plains of Oklahoma
-Where they windshield sunset in your eyes
-Like a watercolor painted sky
+When the server throws an error
+Well then you'd wish you had those IT guys
+'stead of sitting around and watchin' paint dry
 You'd think heaven's doors have opened
+You'll understand why we have...
+Those bad network states
+
+Try to find that missing curly brace
+Feel that frustration on your face
+When you've used the wrong white space
+But that feeling when you find it!
 You'll understand why God made
-Those fly over states
-
-Take a ride across the badlands
-Feel that freedom on your face
-Breathe in all that open space
-Meet a girl from Amarillo
-You'll understand why God made
-Why you'd want to plant your stakes
-In those fly over states
+Why you'd never trade your grade
+For those bad network states
 
 
-Have you ever been through Indiana
-On the plains of Oklahoma,
-Take a ride,
+Have you ever had to reboot a server?
+When the server throws an error,
+Five-o-Three
